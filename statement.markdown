@@ -45,6 +45,15 @@ Perception, Planning, and Control*. The paper includes a couple of interesting
 feature work ideas. One is to further explore what's possible beyond LL(1)
 given the situation of parsing in the Motion Grammar.
 
+Theoretically we know that any Motion Parser can't be better than a class
+called *semantically LL(1)*, meaning that you're allowed more than one look
+ahead granted that you know you're not gonna back track, since in reality you
+can't "undo" a physical action. One idea of improving over regular LL(1) is to
+try to take advantage of that you may look ahead further, as long as all the
+rules you're considering have the same semantic action associated with it. That
+is, either construct a semantically LL(1) parser or something inbetween that
+and regular LL(1).
+
 # Schedule of Work
 
 The project span is the spring 2013 semester. Check up meetings will be held
@@ -54,7 +63,8 @@ work more than that if so is required. This project is worth 3 credits.
 
 # Deliverables
 
-An article for publication should be created jointly with Neil Dantam and
-Mike Stilman
+* An article for publication created jointly with Neil Dantam and Mike Stilman.
+* Implementation of a parser generator that is more powerful than the current
+  LL(1) algorithm.
 
 [Motion Grammar Project]: http://www.golems.org/node/1224
