@@ -2,7 +2,7 @@
 % Arash Rouhani
 %
 
-This document is written by Arash Rouhani, a CS student at georgia tech with
+This document is written by Arash Rouhani, a CS student at Georgia Tech with
 the intention of pursuing a research project in the Golems Humanoid Robotics
 Lab.
 
