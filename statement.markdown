@@ -9,8 +9,9 @@ Lab.
 # Project goals
 
 The student shall be working in the *Motion Grammar* group at the Golems lab.
-One of the main goals is for the student to work on arbitrary tasks of the
-Motion Grammar project, initially most of the work should be done closely with
+In the first phase the student will get aquintted with the existing hardware
+and robot platform by helping with the physical set up and writing driver
+software for the `LWA4` and its sensors. Most of this work should be done closely with
 the other members of the Motion Grammar project. This will ensure a reasonable
 learning curve in the first spans of the project. The student will learn
 what day to day work on the Motion Grammar involves and get confidence to
