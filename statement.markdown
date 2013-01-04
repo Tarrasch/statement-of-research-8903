@@ -11,16 +11,16 @@ Lab.
 The student shall be working in the *Motion Grammar* group at the Golems lab.
 In the first phase the student will get aquintted with the existing hardware
 and robot platform by helping with the physical set up and writing driver
-software for the `LWA4` and its sensors. Most of this work should be done closely with
-the other members of the Motion Grammar project. This will ensure a reasonable
-learning curve in the first spans of the project. The student will learn
-what day to day work on the Motion Grammar involves and get confidence to
+software for the `LWA4` and its sensors. Most of this work should be done
+closely with the other members of the Motion Grammar project. This will ensure
+a reasonable learning curve in the first spans of the project. The student will
+learn what day to day work on the Motion Grammar involves and get confidence to
 work more independently as will be required in the project's later stages.
 
-In order for the student to eventually be able to implement his results on an actual
-robot, the student will be part of the initial setup of the `LWA4` robot that
-arrived very recently to the Golems lab. The goal here is for the student to
-gain confidence with that robot platform.
+In order for the student to eventually be able to implement his results on an
+actual robot, the student will be part of the initial setup of the `LWA4` robot
+that arrived very recently to the Golems lab. The goal here is for the student
+to gain confidence with that robot platform.
 
 In addition to fulfilling the aforementioned learning related goals, the
 student should also be pursuing some theoretical research related to parsers.
